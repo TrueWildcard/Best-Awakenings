@@ -1,0 +1,81 @@
+body {
+    font-family: "arial";
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+img {
+    width:1000px;
+    height:300px;
+}
+p {
+    font-size:20px;
+}
+button {
+    text-align: center;
+    padding:10px;  
+}
+.rhyme {
+    width:300px;   
+}
+#base {
+    width:200px;
+}
+#ssj {
+    width:100px;
+    display:none;
+}
+#ss3 {
+    width:200px;
+    display: none;
+}
+#godku {
+    width:200px;
+    display: none; 
+}
+#ssbkk {
+    width:200px;
+    display: none;
+}
+#ui {
+    width:200px;
+    display:none;   
+}
+#yuno2 {
+    display:none;
+    text-align: center;
+}
+#nomagic {
+    width:100px;
+}
+#antimagic {
+    width:100px;
+    display:none;
+}
+#standuser {
+    width: 200px;   
+}
+#goldenrequiem {
+    width:200px;
+    display: none;
+}
+#gang {
+    display:none;
+    width:200px;
+}
+#slime {
+    width:200px;   
+}
+#dragon {
+    display:none;
+    text-align:center;
+}
+#goblins {
+    display:none;  
+    width:200px;
+}
