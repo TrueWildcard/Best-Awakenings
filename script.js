@@ -1,0 +1,75 @@
+$("#base").click(function(){
+    $("#base").hide();
+     $("#ssj").show();
+});
+
+$("#ssj").click(function(){
+    $("#ssj").hide();
+     $("#ss3").show();
+});
+
+$("#ss3").click(function(){
+    $("#ss3").hide();
+     $("#godku").show();
+});
+
+$("#godku").click(function(){
+    $("#godku").hide();
+     $("#ssbkk").show();
+});
+
+$("#ssbkk").click(function(){
+    $("#ssbkk").hide();
+     $("#ui").show();
+});
+
+$("#ui").click(function(){
+    $("#ui").hide();
+     $("#base").show();
+});
+
+$("#yuno").click(function(){
+    $("#nomagic").fadeOut();
+     $("#antimagic").fadeIn();
+     $("#yuno").hide();
+     $("#yuno2").show();
+});
+$("#yuno2").click(function(){
+    $("#nomagic").fadeIn();
+     $("#antimagic").fadeOut();
+     $("#yuno").show();
+     $("#yuno2").hide();
+});  
+$("#antimagic").click(function(){
+    $("#antimagic").fadeIn();
+});
+$("#dream").click(function(){
+    $("#standuser").fadeOut();
+     $("#goldenrequiem").fadeIn();
+     $("#dream").hide();
+     $("#gang").show();
+});
+$("#gang").click(function(){
+    $("#standuser").fadeIn();
+     $("#goldenrequiem").fadeOut();
+     $("#dream").show();
+     $("#gang").hide();
+});  
+$("#goldenrequiem").click(function(){
+    $("#goldenrequiem").fadeIn();
+});
+$("#orc").click(function(){
+    $("#slime").fadeOut();
+     $("#goblins").fadeIn();
+     $("#orc").hide();
+     $("#dragon").show();
+});
+$("#dragon").click(function(){
+    $("#slime").fadeIn();
+     $("#goblins").fadeOut();
+     $("#orc").show();
+     $("#dragon").hide();
+});  
+$("#goblins").click(function(){
+    $("#goblins").fadeIn();
+});
